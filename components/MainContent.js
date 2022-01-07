@@ -22,7 +22,7 @@ const MainContent = ({ users }) => {
       <h3>Products</h3>
       {filterProduct &&
         filterProduct.map((product_name_display) => (
-          <div className="categorie">
+          <div key={product_name_display} className="categorie">
             <h3>{product_name_display}</h3>
             <div className="horizontal_line"></div>
             <div className="categorie_box">
