@@ -1,4 +1,4 @@
-# ====================== Edvora_work ================
+# =========== Edvora_work ============
 
 > This is [Next.js](https://nextjs.org/) based application to display products based on API calls.
 
