@@ -19,7 +19,7 @@ URL = https://assessment-edvora.herokuapp.com
 
 ## App Link
 
-Folow this [link]() to view it live
+Folow this [link](https://edvora-work.vercel.app/) to view it live
 
 or
 
